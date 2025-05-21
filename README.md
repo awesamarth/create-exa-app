@@ -19,6 +19,7 @@ A command-line tool to quickly set up a new Exa AI project with Next.js, Tailwin
 ### Prerequisites
 
 - Node.js 16.8.0 or later
+- Git installed and available in your system's PATH ([Download Git](https://git-scm.com/downloads))
 - An Exa AI API key (get one at [exa.ai](https://exa.ai))
 
 ### Create Your App
